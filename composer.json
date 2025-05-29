@@ -1,0 +1,18 @@
+{
+    "name": "2023130041/php-crudd",
+    "type": "projoct",
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    },
+    "autoload": {
+"psr-4": {
+     "App\\": "src/"
+ }
+    },
+    "authors": [
+        {
+            "name": "Amanda",
+            "email": "amandanayla82@gmail.com"
+        }
+    ]
+}
